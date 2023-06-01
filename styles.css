@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
-div{
+.container{
 	background-color:#ADD8E6;
 	display : INLINE-BLOCK;
 	BORDER: 2PX SOLID BLACK;
 	PADDING:100PX;
+	color:purple;
 }
